@@ -76,4 +76,7 @@
     // alert("Sua nota é " + nota + " você foi Reprovado");
 // };
 
-// 11 - NUMERO ALEATORIO
+// 11 - NUMERO ALEATORIO 1 ao 10
+let numeroAleatorio = parseInt(Math.random() * 10 + 1);
+console.log(numeroAleatorio);
+
